@@ -5,4 +5,6 @@
 
 
 
-
+from function.return_funs import good
+multiply=good(3,5)
+print(multiply)
